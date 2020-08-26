@@ -1,0 +1,1 @@
+sun,cloudy,rain,warm,lagom,cold,high,medium,strong,weak

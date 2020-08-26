@@ -1,0 +1,14 @@
+sun, warm, high, weak, no
+sun, warm, high, strong, no
+cloudy, warm, high, weak, yes
+rain, lagom, high, weak, yes
+rain, cold, medium, weak, yes
+rain, cold, medium, strong, no
+cloudy, cold, medium, strong, yes
+sun, lagom, high, weak, no
+sun, cold, medium, weak, yes
+rain, lagom, medium, weak, yes
+sun, lagom, medium, strong, yes
+cloudy, lagom, high, strong, yes
+cloudy, warm, medium, weak, yes
+rain, lagom, high, strong, no

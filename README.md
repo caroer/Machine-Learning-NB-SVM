@@ -1,3 +1,3 @@
-# Machine Learning- Naive Bayes and SVM
+# A211TG Machine Learning and Neural Networks - Project 2
 
-Algorithms using Naive Bayes (NB) as well as Support Vector Machine (SVM).
+Creation of learning algorithms using Naive Bayes (NB) as well as Support Vector Machine (SVM).
